@@ -1,0 +1,23 @@
+[
+    { "title": "Сырники из творога", "image": "/images/syrniki.jpeg", "rating": 5, "time": 30, "category": "Закуски", "ingredients": ["творог", "яйцо", "сахар"] },
+    { "title": "Борщ", "image": "/images/borscht.jpeg", "rating": 4, "time": 60, "category": "Супы", "ingredients": ["свекла", "капуста", "картофель"] },
+    { "title": "Плов", "image": "/images/plov.jpeg", "rating": 5, "time": 90, "category": "Основные блюда", "ingredients": ["рис", "морковь", "мясо"] },
+    { "title": "Оливье", "image": "/images/olivie.jpeg", "rating": 4, "time": 45, "category": "Закуски", "ingredients": ["картофель", "морковь", "горошек"] },
+    { "title": "Щи", "image": "/images/shchi.jpeg", "rating": 3, "time": 50, "category": "Супы", "ingredients": ["капуста", "лук", "морковь"] },
+    { "title": "Курица в духовке", "image": "/images/chicken.jpeg", "rating": 5, "time": 80, "category": "Основные блюда", "ingredients": ["курица", "чеснок", "масло"] },
+    { "title": "Пюре", "image": "/images/puree.jpeg", "rating": 4, "time": 25, "category": "Основные блюда", "ingredients": ["картофель", "масло", "молоко"] },
+    { "title": "Салат Цезарь", "image": "/images/caesar.jpeg", "rating": 4, "time": 20, "category": "Закуски", "ingredients": ["салат", "курица", "сыр"] },
+    { "title": "Харчо", "image": "/images/kharcho.jpeg", "rating": 5, "time": 70, "category": "Супы", "ingredients": ["говядина", "рис", "чеснок"] },
+    { "title": "Котлеты", "image": "/images/kotleti.jpeg", "rating": 5, "time": 40, "category": "Основные блюда", "ingredients": ["фарш", "лук", "хлеб"] },
+    { "title": "Омлет", "image": "/images/omelet.jpeg", "rating": 3, "time": 10, "category": "Закуски", "ingredients": ["яйцо", "молоко", "масло"] },
+    { "title": "Жаркое", "image": "/images/zharkoe.jpeg", "rating": 4, "time": 60, "category": "Основные блюда", "ingredients": ["картофель", "мясо", "лук"] },
+    { "title": "Суп с фрикадельками", "image": "/images/meatball_soup.jpeg", "rating": 5, "time": 45, "category": "Супы", "ingredients": ["фарш", "морковь", "лук"] },
+    { "title": "Гречка с грибами", "image": "/images/grechka.jpeg", "rating": 4, "time": 30, "category": "Основные блюда", "ingredients": ["гречка", "грибы", "лук"] },
+    { "title": "Рассольник", "image": "/images/rassolnik.jpeg", "rating": 3, "time": 50, "category": "Супы", "ingredients": ["огурцы", "рис", "картофель"] },
+    { "title": "Салат Винегрет", "image": "/images/vinegret.jpeg", "rating": 4, "time": 35, "category": "Закуски", "ingredients": ["свекла", "морковь", "горошек"] },
+    { "title": "Запеканка", "image": "/images/zapekanka.jpeg", "rating": 5, "time": 55, "category": "Основные блюда", "ingredients": ["творог", "яйцо", "манка"] },
+    { "title": "Солянка", "image": "/images/solyanka.jpeg", "rating": 5, "time": 75, "category": "Супы", "ingredients": ["колбаса", "огурцы", "маслины"] },
+    { "title": "Блины", "image": "/images/bliny.jpeg", "rating": 4, "time": 25, "category": "Закуски", "ingredients": ["молоко", "яйцо", "мука"] },
+    { "title": "Гуляш", "image": "/images/gulyash.jpeg", "rating": 5, "time": 70, "category": "Основные блюда", "ingredients": ["говядина", "лук", "паприка"] }
+  ]
+  
